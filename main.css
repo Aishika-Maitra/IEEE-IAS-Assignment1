@@ -1,0 +1,113 @@
+body
+{
+    padding: 2%;
+    background: url(https://e1.pxfuel.com/desktop-wallpaper/287/76/desktop-wallpaper-cinnamoroll-gif-by-thisisjustafad-backgrounds-kawaii-cinnamoroll-thumbnail.jpg);
+}
+.title
+{
+    font-family: 'Lucida Handwriting';
+    text-align: center;
+    color:rgb(16, 127, 158);
+}
+.subtitle
+{
+    font-family: 'Allura',cursive;
+    font-weight: 700;
+    font-size: xx-large;
+    color: rgb(136, 103, 166);
+}
+summary
+{
+    font-style: bold;
+    font-weight: 600;
+    font-style: italic;
+    color: rgb(217, 135, 148);
+}
+.answers
+{
+    font-style: bold;
+    font-weight: 600;
+    font-style: italic;
+    color: rgb(138, 89, 210);
+}
+p
+{
+    font-style: bold;
+    font-style: italic;
+    font-weight: 600;
+    font-size: large;
+    color: #3969a7
+}
+ul
+{
+    
+    list-style: square inside url("sqpurple.gif");
+    color: rgb(51, 132, 203);
+}
+a
+{
+    color: rgb(51, 132, 203);
+    font-weight: 550;
+    text-decoration: none;
+}
+a:visited
+{
+    color: rgb(16, 92, 122);
+}
+a:hover, a:active
+{
+    color: rgb(192, 122, 228);
+}
+hr
+{
+    border-top: 3px dotted  #0b2d59;
+    height: 3px;
+    width: 30%;
+}
+caption
+{
+    text-align: center;
+    font-weight: 800;
+    font-family: 'Lucida Handwriting';
+    color: rgb(149, 105, 203);
+}
+table, tr, td
+{
+    text-align: center;
+    font-weight: 500;
+    border: 2px dotted rgb(144, 145, 222);
+    font-family: 'Lucida Handwriting';
+    border-collapse: collapse;
+    padding: 0.5rem;
+    color: rgb(180, 111, 168);
+    
+}
+th
+{
+    text-align: center;
+    font-family: 'Lucida Handwriting';
+    color: rgb(130, 98, 135);
+}
+figure
+{
+    text-align: center;
+}
+figcaption
+{
+    font-family: 'Allura',cursive;
+    font-weight: 700;
+    font-size: larger;
+    color: rgb(51, 132, 203);
+    text-align: center;
+}
+figcaption:hover, figcaption:active
+{
+    color: rgb(192, 122, 228);
+}
+.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
